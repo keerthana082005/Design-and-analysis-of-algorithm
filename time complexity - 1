@@ -1,4 +1,4 @@
-Convert the following algorithm into a program and find its time complexity using the counter method.
+Convert the following algorithm into a program and find its time complexit using the counter method.
 void function (int n)
 {
     int i= 1;
